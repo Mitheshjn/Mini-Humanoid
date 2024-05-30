@@ -1,14 +1,14 @@
 # Mini-Humanoid
 
-<img src="/humanoid/IMG_1389.jpg" width="50%" /> 
+<img src="/humanoid/IMG_1389.jpg" width="50%" align="center" /> 
 
 This project was made as a proof of concept(PoC) and is still under active development. I would not be sharing the code as this is being developed for a company.
 
 
 # Design
 
-![Humanoid](/humanoid/Screenshot_2023-07-07_091123.png)
-![Humanoid](/humanoid/Screenshot_2023-07-07_092618.png)
+<img src="/humanoid/Screenshot_2023-07-07_091123.png" width="50%" align="center" /> 
+<img src="/humanoid/Screenshot_2023-07-07_092618.png" width="50%" align="center" /> 
 
 This was a basic design I created initially using custom servo adapter and custom connecting joints.
 <p float="left">
