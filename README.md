@@ -19,3 +19,6 @@ This was a basic design I created initially using custom servo adapter and custo
   <img src="/humanoid/Screenshot_2023-07-07_094250.png" width="40%" />
   <img src="/humanoid/Screenshot_2023-07-07_094439.png" width="34%" /> 
 </p>
+
+Humanoid standing for the first time
+![Humanoid](/humanoid/IMG_20240123_183320.jpg)
