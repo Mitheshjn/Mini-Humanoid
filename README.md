@@ -17,5 +17,5 @@ This was a basic design I created initially using custom servo adapter and custo
 </p>
 <p float="left">
   <img src="/humanoid/Screenshot_2023-07-07_094250.png" width="40%" />
-  <img src="/humanoid/Screenshot_2023-07-07_094439.png" width="33%" /> 
+  <img src="/humanoid/Screenshot_2023-07-07_094439.png" width="34%" /> 
 </p>
