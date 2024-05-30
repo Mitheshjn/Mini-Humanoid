@@ -24,4 +24,4 @@ Humanoid standing for the first time
 
 <img src="/humanoid/IMG_20240123_183320.jpg" width="50%" /> 
 
-<video src="https://github.com/Mitheshjn/Mini-Humanoid/blob/main/humanoid/video_20240123_183211.mp4" width="50%"></video>
+<video src="https://github.com/Mitheshjn/Mini-Humanoid/assets/72849423/ff769958-de9c-421b-87d5-f943c8c586cf" width="50%"></video>
