@@ -2,7 +2,8 @@
 
 <img src="/humanoid/IMG_1389.jpg" width="50%" align="center" /> 
 
-This project was made as a proof of concept(PoC) and is still under active development. I would not be sharing the code as this is being developed for a company.
+This project was made as a proof of concept(PoC) and is still under active development.
+It is about 50cm tall and weighs around 3Kg.
 
 
 # Design
