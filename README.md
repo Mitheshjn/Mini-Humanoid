@@ -1,3 +1,3 @@
 # Mini-Humanoid
 
-![Humanoid](/humanoid/IMG_20240325_161553.jpg)
+![Humanoid](/humanoid/IMG_1389.jpg)
