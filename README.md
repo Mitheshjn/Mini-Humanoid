@@ -23,3 +23,5 @@ This was a basic design I created initially using custom servo adapter and custo
 Humanoid standing for the first time
 
 <img src="/humanoid/IMG_20240123_183320.jpg" width="50%" /> 
+
+<video src='/humanoid/' width=180/>
