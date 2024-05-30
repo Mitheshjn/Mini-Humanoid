@@ -21,4 +21,5 @@ This was a basic design I created initially using custom servo adapter and custo
 </p>
 
 Humanoid standing for the first time
-![Humanoid](/humanoid/IMG_20240123_183320.jpg)
+
+<img src="/humanoid/IMG_20240123_183320.jpg" width="50%" /> 
