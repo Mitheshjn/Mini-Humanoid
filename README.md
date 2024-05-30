@@ -11,5 +11,7 @@ This project was made as a proof of concept(PoC) and is still under active devel
 ![Humanoid](/humanoid/Screenshot_2023-07-07_092618.png)
 
 This was a basic design I created initially using custom servo adapter and custom connecting joints.
-![Humanoid](/humanoid/Screenshot_2023-07-07_094250.png)![Humanoid](/humanoid/Screenshot_2023-07-07_094325.png)
-![Humanoid](/humanoid/Screenshot_2023-07-07_094349.png)![Humanoid](/humanoid/Screenshot_2023-07-07_094439.png)
+<p float="left">
+  <img src="/humanoid/Screenshot_2023-07-07_094250.png" width="50" />
+  <img src="/humanoid/Screenshot_2023-07-07_094325.png" width="50" /> 
+</p>
