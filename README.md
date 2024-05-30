@@ -24,4 +24,4 @@ Humanoid standing for the first time
 
 <img src="/humanoid/IMG_20240123_183320.jpg" width="50%" /> 
 
-<video src='/humanoid/' width=180/>
+<video src='https://drive.google.com/file/d/1t341e7nMiYd8YXpe8AE9wn9tde9MKvtt/view?usp=drive_link' width="50%"/>
