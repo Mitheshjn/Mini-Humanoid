@@ -1,6 +1,7 @@
 # Mini-Humanoid
-
+<p align="center">
 <img align="center" src="/humanoid/IMG_1389.jpg" width="75%" /> 
+</p>
 
 This project was made as a proof of concept(PoC) and is still under active development.
 It is about 50cm tall and weighs around 3Kg.
